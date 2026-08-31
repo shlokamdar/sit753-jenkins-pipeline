@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        DIRECTORY_PATH        = 'C:\Users\Shloka\Desktop\Deakin\Professional Practices\6.1P'
+        DIRECTORY_PATH = 'C:\\Users\\Shloka\\Desktop\\Deakin\\Professional Practices\\6.1P'
         TESTING_ENVIRONMENT   = 'staging-environment'
         PRODUCTION_ENVIRONMENT = 'Shloka-Production'
     }
